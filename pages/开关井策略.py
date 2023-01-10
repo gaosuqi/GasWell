@@ -78,4 +78,4 @@ def main(filename):
 
 
 if __name__ == '__main__':
-    main("output.txt")
+    main("pages/output.txt")
